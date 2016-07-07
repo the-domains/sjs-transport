@@ -1,0 +1,14 @@
+layout_spectrum: 0.5666817747987807
+typography_spectrum: 0.34934916836209595
+color:
+  brandStrength: 0.6608473174273968
+  lightness: 0.09352054935880005
+  saturation: 0.09245394682511687
+  rhythmicContrast: 0.9533754468429834
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: SJS Transport
